@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Patnugot_WageCalculator</string>
+    <string-array name="employees">
+        <item>Regular</item>
+        <item>Probationary</item>
+        <item>Part-time</item>
+    </string-array>
+</resources>
